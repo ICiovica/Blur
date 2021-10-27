@@ -1,0 +1,49 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e982144fa6e8a15946a712e8b0533378446"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9824a79935e800ab0b6b081a2a351c6fde"
+    }
+  ],
+  "containerPath" : "/Users/ionutciovica/DEVELOPMENT/SWIFT/PERSONAL PROJECTS/Blur/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/ionutciovica/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ionutciovica/Library/Developer/Xcode/DerivedData/Pods-gxshpnfuqnbchhfidoolhjpmihef/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ionutciovica/Library/Developer/Xcode/DerivedData/Pods-gxshpnfuqnbchhfidoolhjpmihef/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
